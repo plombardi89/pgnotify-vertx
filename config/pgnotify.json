@@ -1,0 +1,7 @@
+{
+  "mdk": {
+    "service": {
+      "name": "pgnotify"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "_datawirefileVersion": 1,
+
+  "service": {
+    "name": "pgnotify",
+    "version": "0.1.0",
+    "public": true
+  }
+}
